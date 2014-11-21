@@ -1,4 +1,4 @@
-<img style="height:50px"" src=cheatsheet_heading.png>
+<img style="height:70px"" src=cheatsheet_heading.png>
 
 ##HTML tags
 
@@ -8,7 +8,7 @@
 ```<h1>A heading</h1>```   
 * a heading at the next level  
 ```<h2>A sub-heading</h2>```
-* a heading at the next level
+* a heading at the next level  
 ```<h3>A sub-sub-heading</h3>```... and so on, up to \<h6>
 * emphasize your text  
 ```<em>text</em>``` 
@@ -16,7 +16,7 @@
 ```<strong>text</strong>```   
 * go to another line  
 ```<br/>``` (you can't put anything inside br)
-* create a link
+* create a link  
 ```<a href="http://djangogirls.org/">link</a>```
 * make a list  
 ```<ul><li>first item</li><li>second item</li></ul>```  

@@ -1,4 +1,4 @@
-<img style="height:50px"" src=cheatsheet_heading.png>
+<img style="height:70px"" src=cheatsheet_heading.png>
 ###Activating virtualenv
 * Windows:  
 ```myvenv\Scripts\activate```

@@ -9,8 +9,10 @@ Inside you can find resources helpful to organize your own Django Girls event.
 - T-shirt (1 design)
 - Bag (1 design)
 - Presentation for sponsors
+- Presentation for promotions
 - Presentation for opening Django Girls
 - Presentation for closing Django Girls day
+- Email and social media templates
 
 Feel free to fork, contribute with your own resources and pull request! <3
 

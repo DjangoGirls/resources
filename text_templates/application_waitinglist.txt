@@ -1,0 +1,15 @@
+Subject:
+
+WAITING LIST: Django Girls <city>
+
+Body:
+
+Dear applicant,
+
+Unfortunately we couldn’t fit you in the workshop at this time, but you've been very close so we've included you in our waiting list. 
+
+Can you confirm that you are still interesed in attending the workshop? All accepted applicants must confirm their attendance in the coming days, so in case space becomes available we will contact you within 1 week of today.
+
+Thanks!
+Django Girls <city>
+

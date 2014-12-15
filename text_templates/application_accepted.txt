@@ -1,0 +1,15 @@
+Subject: 
+
+ACCEPTED: Django Girls <city>
+
+Body:
+
+Congratulations! We’re happy to invite you to join us for the Django Girls workshop in <city>. We hope that this workshop will provide you with a great first experience for building web apps.
+
+You have 3 days (until <day of week>, 10am) to confirm via e-mail that you will attend Django Girls <city> on <date>. Please, be sure that you can come to <city> because there are many other women waiting
+for your place!
+
+If you requested financial aid, you still need to confirm that you will attend before we can allocate the funds to you. After you confirm, we will notify you within 5 days how much financial aid we can provide.
+
+Thanks! We can't wait to see you!
+Django Girls <city>

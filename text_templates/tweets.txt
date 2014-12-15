@@ -1,0 +1,39 @@
+Tweet samples and templates
+
+Website/Applications
+====================
+
+The website is now live! Read all about Django Girls <city> :-) <URL> #djangogirls
+
+Applications are open! Join us in <city> and get started on programming :-) http://djangogirls.org/<city> #djangogirls
+
+We've received <number> applications already! Hurry, applications are open only until <date> :-) http://djangogirls.org/<city> #djangogirls
+
+Applications are closing <tomorrow/next week/in n days/etc>! Last chance to apply and get started on programming in Django :-) #djangogirls
+
+Applications are now closed! Thanks to all who applied, we will be sending email confirmations by <date> so watch your inbox :-) #djangogirls
+
+Sponsors
+========
+
+We're happy to announce our <first,next> sponsor/partner: <twitter_username>! Thank you for your support :-) #djangogirls <sponsor_hashtag>
+
+Coaches
+=======
+
+Meet our coaches: From <city/country>, <please welcome/three cheers for/let's welcome/etc> <twitter_username>! #djangogirls
+NOTE: if meta-coach, add that
+
+Venue
+=====
+
+Venue confirmed! Django Girls <city> will take place at <name of venue sponsor>. Can't wait! #djangogirls <sponsor_hashtag>
+
+Swag/General
+============
+
+Received the <tshirts/bags/tattoos/etc> today! Can't wait to share with our students :-) #djangogirls
+NOTE: add picture
+
+
+

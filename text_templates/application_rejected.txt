@@ -1,0 +1,20 @@
+Subject:
+
+NOT ACCEPTED: Django Girls <city>
+
+Body:
+
+Dear applicant,
+
+Unfortunately we couldn’t fit you in the workshop at this time. To be able to give personal guidance to each participant, we could only take a fraction of the applicants.
+
+The Django Girls project is constantly organizing events. Check out our website: http://djangogirls.org/ and follow http://twitter.com/djangogirls or http://facebook.com/djangogirls for
+more information. 
+
+All our materials are open source, so you still can try the tutorial on your own:http://tutorial.djangogirls.org/. If you are motivated to learn, you can also try out <meetups for women like Pyladies in the city>.
+
+Also, there is always a chance that we might have some last-minute cancellations, so we might contact you closer to the workshop date if space becomes available.
+
+Good luck!
+Django Girls <city>
+

@@ -19,7 +19,7 @@ WHERE
 
 WHO
 ===
-The workshop is intended for women with no prior programming experience (but technical background is fine!). We accept applications from local and visiting attendees, and with the help of sponsorship we hope to offer financial aid to those who wish to travel to (and stay in) Brno for the workshop and DevConf.cz.
+The workshop is intended for women with no prior programming experience (but technical background is fine!). We accept applications from local and visiting attendees, and with the help of sponsorship we hope to offer financial aid to those who wish to travel to (and stay in) <city> for the workshop.
 
 APPLY
 =====
@@ -29,7 +29,7 @@ GET INVOLVED
 ============
 We encourage you to reach out to your communities, families, friends, and share the love of technology and programming with all the women you know. Together, we can bring more diversity into the IT fields and empower women to pursue jobs in this field without fear or hesitation.
 
-Also, if you have some time and can help us out, please contact me OFF-LIST. We're always happy to have volunteers for the day of the event or to help with peripheral tasks such as printing swag, promoting with local media, or even coaching!
+If you wish to get involved, please write to us! We're always happy to have volunteers for the day of the event or to help with peripheral tasks such as printing swag, promoting with local media, or coaching!
 
 Thanks!
 Django Girls <city>

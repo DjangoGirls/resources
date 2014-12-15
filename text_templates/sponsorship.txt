@@ -6,7 +6,7 @@ Body:
 
 Hello <contact_name>!
 
-My name is <your_full_name> and I am the organizer of Django Girls in <brno>. Django Girls is a global, non-profit organization that helps women get involved with technology and teaches them about programming.
+My name is <your_full_name> and I am the organizer of Django Girls in <city>. Django Girls is a global, non-profit organization that helps women get involved with technology and teaches them about programming.
 
 We're doing our <first/next> workshop in <city> on <date> and we would love to have you involved. We're looking for sponsors who can help us cover the costs of food, drinks, and other related expenses.
 

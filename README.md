@@ -9,6 +9,7 @@ Inside you can find resources helpful to organize your own Django Girls event.
 - T-shirt (1 design)
 - Bag (1 design)
 - Table Name Cards (1 design, orange)
+- Other graphics (2 designs) - can be used for pins or stickers
 - Presentation for sponsors
 - Presentation for opening Django Girls
 - Presentation for closing Django Girls day

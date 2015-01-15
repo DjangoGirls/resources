@@ -17,6 +17,9 @@ Inside you can find resources helpful to organize your own Django Girls event.
 
 Feel free to fork, contribute with your own resources and pull request! <3
 
+The fonts used in the logo and posters / bags designs can be found at:
+[Lato](https://www.google.com/fonts/specimen/Lato)
+[Just The Way You Are](http://www.dafont.com/just-the-way-you-are.font)
 
 ## License
 

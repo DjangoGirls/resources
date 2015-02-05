@@ -11,9 +11,12 @@ Inside you can find resources helpful to organize your own Django Girls event.
 - Table Name Cards (1 design, orange)
 - Other graphics (2 designs) - can be used for pins or stickers
 - Presentation for sponsors
+- Presentation for promotions
 - Presentation for opening Django Girls
 - Presentation for closing Django Girls day
 - Presentation for a lightning talk about Django Girls in general
+- Email and social media templates
+
 
 Feel free to fork, contribute with your own resources and pull request! <3
 

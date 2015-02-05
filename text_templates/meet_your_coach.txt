@@ -1,0 +1,22 @@
+Hi there!
+ 
+Django Girls is hapenning in just <number> days, so it's time to meet your team and coach.
+ 
+<name>, <name, and <name>: You are now a team for Django Girls. Your coach will be <full_name>. We think it's best if you get to know each other before the workshop :)
+ 
+Team! Before the workshop we need to ask you to do two (or even three!) things:
+ 
+1) Set up a Skype/Hangout/Screen Hero call with your coach to have an "installation party". This means that your coach will show you and help you install Python, Virtual Enviroment, Django, and any other prerequisites on your computer. Please make sure to use the same computer that you're going to use during the workshop! 
+
+Installing prerequisites and setting up your environment can be a challenge, especially if you've never done this before; many things depend on your operating system, and sometimes the process isn't so smooth. But don't worry, your coach is here to help you! Just be aware that the installation might take anywhere from 30 minutes to a few hours, so have patience and keep smiling! :)
+ 
+<coach_name>: To speed things up, please create a http://doodle.com/, propose a few date/time options and send a doodle link to your group so that you can all meet at the same time. Your team is using <operating_system>. 
+ 
+2) Do some prep homework and read the first chapter of the Django Girls tutorial, "How the internet works", available here: http://tutorial.djangogirls.org/. It's a quick read and will save us some time during the workshop.
+ 
+3) Optional: If you want to go ahead and start to do something already, you can take a few lessons from the HTML & CSS course on Code Academy: http://www.codecademy.com/tracks/web. It's easy, so you can totally do it on your own, and even though it is totally optional it will save you even more time during the workshop so you can learn more about Django and Python :) 
+ 
+The installation party is definitely the most important item on this list, because the workshop time assumes that your computer already has all the prerequisites installed when you arrive.
+ 
+Good luck and see you soon!
+Django Girls <city> :)

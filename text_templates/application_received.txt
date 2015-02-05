@@ -1,0 +1,14 @@
+Subject:
+
+Application received: Django Girls <city>
+
+Body:
+
+Hello!
+
+This email confirms that we received your application for Django Girls <city. Please check that the registration form information below is correct and send us an email if you need to correct anything.
+
+Note: This is not a confirmation that you have been accepted! We will send acceptance/rejection/waiting-list emails by <date>, so watch your inbox!
+
+Thank you for applying and hope to see you soon,
+<name and name>, Django Girls <city>

@@ -12,9 +12,7 @@ Installing prerequisites and setting up your environment can be a challenge, esp
  
 <coach_name>: To speed things up, please create a http://doodle.com/, propose a few date/time options and send a doodle link to your group so that you can all meet at the same time. Your team is using <operating_system>. 
  
-Installation instructions are available here: http://asendecka.gitbooks.io/installation/python_installation/README.html
- 
-2) Do some prep homework and read the first chapter of Django Girls tutorial available here here: http://asendecka.gitbooks.io/how-the-internet-works/. It's a quick read and will save us some time during the workshop.
+2) Do some prep homework and read the first chapter of the Django Girls tutorial, "How the internet works", available here: http://tutorial.djangogirls.org/. It's a quick read and will save us some time during the workshop.
  
 3) Optional: If you want to go ahead and start to do something already, you can take a few lessons from the HTML & CSS course on Code Academy: http://www.codecademy.com/tracks/web. It's easy, so you can totally do it on your own, and even though it is totally optional it will save you even more time during the workshop so you can learn more about Django and Python :) 
  

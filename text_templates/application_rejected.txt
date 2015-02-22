@@ -8,10 +8,11 @@ Dear applicant,
 
 Unfortunately we couldn’t fit you in the workshop at this time. To be able to give personal guidance to each participant, we could only take a fraction of the applicants.
 
-The Django Girls project is constantly organizing events. Check out our website: http://djangogirls.org/ and follow http://twitter.com/djangogirls or http://facebook.com/djangogirls for
-more information. 
+Remember: it doesn't mean that you're not good enough. Sometimes it means that you already have too much experience (and you should apply as a coach, not a beginner!), sometimes it means that there is (or will be very soon) another Django Girls event near you. We also had received much more applications than we could ever accomodate. If you wish to receive a personal feedback, please reply to this message, we will try to do our best. Warmest hugs to you! 
 
-All our materials are open source, so you still can try the tutorial on your own:http://tutorial.djangogirls.org/. If you are motivated to learn, you can also try out <meetups for women like Pyladies in the city>.
+The Django Girls project is constantly organizing events, don't hesitate applying again to another event. Check out our website: http://djangogirls.org/ and follow http://twitter.com/djangogirls or http://facebook.com/djangogirls for more information. 
+
+All our materials are free and open source, so you can try doing the tutorial on your own: http://tutorial.djangogirls.org/. If you are motivated to learn, you can also try out <meetups for women like Pyladies in the city>.
 
 Also, there is always a chance that we might have some last-minute cancellations, so we might contact you closer to the workshop date if space becomes available.
 

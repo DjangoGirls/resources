@@ -10,4 +10,4 @@ Feel free to fork, contribute with your own resources and pull request! <3
 
 ## License
 
-In order to use this resources, you first need to receive a permission via e-mail from hello@djangogirls.org granted by Ola Sitarska or Ola Sendecka.
+In order to use this resources, you first need to receive a permission via e-mail from hello@djangogirls.org granted by Ola Sitarska, Ola Sendecka, Baptiste Mispelon or Ania Warzecha.

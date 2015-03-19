@@ -1,12 +1,12 @@
 Hi there!
  
-Django Girls is hapenning in just <number> days, so it's time to meet your team and coach.
+Django Girls is happening in just <number> days, so it's time to meet your team and coach.
  
-<name>, <name, and <name>: You are now a team for Django Girls. Your coach will be <full_name>. We think it's best if you get to know each other before the workshop :)
+<name>, <name>, and <name>: You are now a team for Django Girls. Your coach will be <full_name>. We think it's best if you get to know each other before the workshop :)
  
 Team! Before the workshop we need to ask you to do two (or even three!) things:
  
-1) Set up a Skype/Hangout/Screen Hero call with your coach to have an "installation party". This means that your coach will show you and help you install Python, Virtual Enviroment, Django, and any other prerequisites on your computer. Please make sure to use the same computer that you're going to use during the workshop! 
+1) Set up a Skype/Hangout/Screen Hero call with your coach to have an "installation party". This means that your coach will show you and help you install Python, Virtual Envirnoment, Django, and any other prerequisites on your computer. Please make sure to use the same computer that you're going to use during the workshop! 
 
 Installing prerequisites and setting up your environment can be a challenge, especially if you've never done this before; many things depend on your operating system, and sometimes the process isn't so smooth. But don't worry, your coach is here to help you! Just be aware that the installation might take anywhere from 30 minutes to a few hours, so have patience and keep smiling! :)
  

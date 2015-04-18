@@ -25,6 +25,7 @@ The fonts used in the logo and posters / bags designs can be found at:
 * [Lato](https://www.google.com/fonts/specimen/Lato)
 * [Just The Way You Are](http://www.dafont.com/just-the-way-you-are.font)
 * [Lobster](http://www.dafont.com/lobster.font)
+* [Linux Libertine](http://www.dafont.com/linux-libertine.font)
 
 ## License
 

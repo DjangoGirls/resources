@@ -14,10 +14,10 @@
 `python manage.py runserver`
 - Open Django's Python console:  
 `python manage.py shell`...
-- …and exit it: `>>> exit()`
+- ...and exit it: `>>> exit()`
 
 
-### Git and Heroku
+### Git
 - See which files you've changed and what's been added in git:  
 `git status`  
 - Add one file:  
@@ -28,7 +28,3 @@
 `git add -A .`  
 - Save changes to git's commit history:  
 `git commit -m "message"`  
-- Push to Heroku:  
-`git push heroku master`  
-- Open app in browser:  
-`heroku open`

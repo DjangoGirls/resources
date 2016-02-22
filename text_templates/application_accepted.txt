@@ -1,4 +1,4 @@
-Subject: 
+Subject:
 
 ACCEPTED: Django Girls <city>
 
@@ -8,6 +8,11 @@ Congratulations! We’re happy to invite you to join us for the Django Girls wor
 
 You have 3 days (until <day of week>, 10am) to confirm via e-mail that you will attend Django Girls <city> on <date>. Please, be sure that you can come to <city> because there are many other women waiting
 for your place!
+
+To CONFIRM simply click on the link below (or copy and paste the link into your browser): [rsvp-url-yes]
+
+If you can not attend the workshop and you wish to CANCEL your application, click this link: [rsvp-url-no]
+Don't worry about the canceled seat, we have a long waiting list!
 
 If you requested financial aid, you still need to confirm that you will attend before we can allocate the funds to you. After you confirm, we will notify you within 5 days how much financial aid we can provide.
 

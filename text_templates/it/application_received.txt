@@ -1,0 +1,14 @@
+Subject:
+
+Iscrizione ricevuta: Django Girls <city>
+
+Body:
+
+Ciao!
+
+Questa e-mail conferma che abbiamo ricevuto la tua iscrizione per Django Girls <city>. Per favore controlla che le informazioni di registrazione sono corrette. Mandaci una e-mail nel caso tu debba correggere qualcosa.
+
+Nota: Questa non è una conferma che sei stata accettata! Ti invieremo una e-mail di accettazione/rifiuto/lista-di-attesa entro il <date>, tieni d'occhio la casella e-mail!
+
+Grazie per la richiesta e speriamo di vederci presto,
+<name and name>, Django Girls <city>

@@ -1,0 +1,15 @@
+Subject:
+
+LISTA DI ATTESA: Django Girls <city>
+
+Body:
+
+Cara candidata,
+
+sfortunatamente questa volta non c'è abbastanza posto per te al workshop, ma ci sei andata vicina quindi ti abbiamo incluso nella lista d'attesa.
+
+Ci puoi confermare che sei ancora interessata a partecipare al workshop? Tutte le partecipanti accettate devono confermare la loro presenza nei prossimi giorni, in caso qualche posto si liberi ti contatteremo nel giro di una settimana da oggi.
+
+Grazie!
+Django Girls <city>
+

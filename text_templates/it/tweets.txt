@@ -1,0 +1,36 @@
+Tweets da usare come esempio
+
+Sito/Iscrizioni
+=================
+
+Il sito è online! Leggi tutto su Django Girls <city> :-) <URL> #djangogirls
+
+Le iscrizioni sono aperte! Vieni a <city> e inizia a programmare :-) http://djangogirls.org/<city> #djangogirls
+
+Ricevute già <number> iscrizioni! Sbrigati, le iscrizioni sono aperte fino al <date> :-) http://djangogirls.org/<city> #djangogirls
+
+Le iscrizioni chiudono <domani/settimana prossima/tra n giorni/etc>! Ultima chance per iniziare a programmare con Django :-) #djangogirls
+
+Le iscrizioni sono chiuse! Grazie ragazze! Manderemo le email di conferma entro il <date> controllate la posta :-) #djangogirls
+
+Sponsor
+=======
+
+Siamo felici di annunciare il nostro <primo,prossimo> <sponsor/partner>: <twitter_username>! Grazie per il supporto :-) #djangogirls <sponsor_hashtag>
+
+Coach
+=====
+
+Incontra i nostri coach: da <city/country>, <benvenuto/hip hip hurra/salutiamo/etc> <twitter_username>! #djangogirls
+NOTA: se meta-coach, aggiungilo
+
+Location
+========
+
+Location confermata! Django Girls <city> si terrà in <name of venue sponsor>. Non vediamo l'ora! #djangogirls <sponsor_hashtag>
+
+Merchandise/Generico
+====================
+
+Appena ricevuti le <maglie/borse/tatuaggi/etc>! Non vediamo l'ora di condividerli con le nostre studentesse :-) #djangogirls
+NOTA: aggiungi foto

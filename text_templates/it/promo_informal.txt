@@ -1,0 +1,35 @@
+Buongiorno <name of organization>!
+
+siamo felici di annunciarti il prossimo workshop Django Girls a <city>. Il workshop è organizzato indipendentemente da <name> and <name>, in collaborazione con <sponsors>.
+
+COSA
+====
+Simile ai workshop PyLadies e Rails Girls, Django girls ha lo scopo di introdurre donne nel campo della programmazione. Il workshop di una giornata permette alle partecipanti di costruire il loro primo sito con Django!
+
+Il nostro sito (con tutte le informazioni ed il link per partecipare):
+http://djangogirls.org/<city>
+
+QUANDO
+=====
+<date>
+
+DOVE
+====
+<venue>
+
+CHI
+===
+Il workshop è inteso per donne che non hanno esperienza con la progammazione (ma un background tecnico va bene!). Accettiamo iscrizioni da persone del posto ma anche da fuori e con l'aiuto dei nostri sponsor offriamo un aiuto finanziario a chi deve viaggiare e soggiornare a <city> per il workshop.
+
+PARTECIPA
+=========
+Le iscrizioni sono aperte, e rimarranno aperte fino al <date>.
+
+AIUTACI
+=======
+Ti chiediamo di spargere la voce nella tua comunità, famiglia, amici e condividere l'amore per la programmazione e la tecnologia con tutte le donne che conosci. Insieme, possiamo portare più diversità nel mondo IT per aiutare le donne a perseguire una carriere in questo settore senza paura o esitazione.
+
+Se vuoi essere coinvolto contattaci! Siamo sempre felici di avere volontari per il giorno dell'evento e per aiutarci nell'organizzazione, con la promozione o facendo da coach!
+
+Grazie!
+Django Girls <city>

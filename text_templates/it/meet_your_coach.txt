@@ -1,0 +1,22 @@
+Ciao!
+
+Django Girls sta arrivando in <number> giorni, è arrivato il momento di conoscere il tuo team ed il tuo coach.
+
+<name>, <name>, and <name>: ora siete un team per Django Girls. Il vostro coach sarà <full_name>. Crediamo sia meglio che vi conosciate prima del workshop :)
+
+Team! Prima del workshop vi dobbiamo chiedere due (o anche tre!) cose:
+
+1) organizzare una chiamata Skype/Hangout/Screen Hero col vostro coach per avere un "installation party". Questo significa che il vostro coach vi aiuterà nell'installazione di Python, Virtual Environment, Django e ogni altro prerequisito nel vostro computer. Per favore usate lo stesso computer che userete durante il workshop!
+
+Installare i prerequisiti a configurare il vostro computer può essere una sfida, soprattutto se non lo avete mai fatto prima; molte cose dipendono dal vostro sistema operativo e alcune volte questo processo non va sempre liscio. Ma non preoccuparti, il tuo coach è qui per aiutarti! Preparati a spendere da 30 minuti a qualche ora per l'installazione, porta pazienza e continua a sorridere! :)
+
+<coach_name>: Per rendere le cose più veloci, crea un http://doodle.com/, proponi qualche data e manda il link del doodle al tuo team così che potrete trovarvi nello stesso momento. Il tuo team usa <operating_system>.
+
+2) fai i compiti a casa e leggi il primo capitolo del tutorial Django Girls, "Come funziona Internet", disponibile qui: http://tutorial.djangogirls.org/it. E` una lettura veloce e ci farà risparmiare del tempo durante il workshop.
+
+3) opzionale: se vuoi portarti avanti, puoi prendere un paio di lezioni su HTML e CSS su Code Academy: http://www.codecademy.com/tracks/web. E` così facile che puoi farlo da sola: anche se è opzionale ti farà risparmiare ancora più tempo in modo da poter imparare ancora più su Django e Python al workshop :)
+
+L'installation party è sicuramente la cosa più importante di questa lista perchè il tempo disponibile al workshop assume che il tuo computer avrà tutti i prerequisiti installati al tuo arrivo.
+
+Buona fortuna, a presto!
+Django Girls <city> :)

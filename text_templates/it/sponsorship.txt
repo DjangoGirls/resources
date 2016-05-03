@@ -1,0 +1,16 @@
+Subject:
+
+Sponsorizzazione Django Girls <city>
+
+Body:
+
+Buongiorno <contact_name>!
+
+Il mio nome è <your_full_name> e sono <un organizzatore/una organizzatrice> di Django Girls in <city>. Django Girls è una organizzazione non-profit internazionale che aiuta le donne ad essere coinvolte nel mondo della tecnologia insegnando loro a programmare.
+
+Stiamo organizzando il nostro <primo/prossimo> workshop a <city> il <date> e vorremmo coinvolgerti. Stiamo cercando sponsor che possano aiutarci a coprire i costi di cibo, bevande e altre spese.
+
+In allegato troverai la nostra proposta di sponsor in modo da avere un'idea generale dell'evento. Ovviamente ci farebbe molto piacere potertene parlare di più, sentiti <libero/libera> di contattarmi!
+
+Buona giornata,
+<your full name>

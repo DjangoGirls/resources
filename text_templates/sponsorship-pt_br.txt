@@ -1,0 +1,20 @@
+Modelo de e-mail
+
+Assunto:
+
+Django Girls Porto Alegre - Patrocínio
+
+Mensagem:
+
+Olá, <nome_do_contato>!
+
+Meu nome é <nome_da_organizadora>, e sou organizadora do Django Girls em Porto Alegre. Django Girls é uma organização não-governamental global que ajuda mulheres a se envolverem com tecnologia - e as ensina programação.
+
+Vamos fazer nosso próximo workshop em <cidade> em <data> e adoraríamos que você se envolvesse! Estamos buscando patrocinadores que nos ajudem a cobrir os custos de comida, bebida, transporte e outras despesas relacionadas.
+
+Segue anexo nossa proposta de patrocínio, para que você tenha uma ideia melhor do que é nosso evento. É claro, seria ótimo se pudessemos conversar mais sobre ele, então fique à vontade para entrar em contato.
+
+Tenha um excelente dia!
+
+<nome_da_organizadora>
+https://djangogirls.org/CIDADE

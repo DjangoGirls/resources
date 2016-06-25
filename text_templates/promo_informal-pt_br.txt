@@ -1,0 +1,35 @@
+Olá <nome da organização>!
+
+Estamos muito felizes de anunciar o próximo workshop Django Girls em Porto Alegre. Essa oficina é organizada independentemente por <nome> e <nome> em parceria com <patrocinadores>.
+
+O quê?
+====
+Assim como PyLadies e Rails Girls, Django Girls busca introduzir mulheres ao mundo da programação e esse workshop de um dia permite que elas construam seu primeiríssimo website com Django!
+
+Nosso site (com todas informações e link de inscrições):
+http://djangogirls.org/<cidade>
+
+Quando?
+====
+<data>
+
+Onde?
+=====
+<local>
+
+Para quem?
+===
+Esse workshop é voltado para mulheres sem experiência alguma em programação (mas se tiver conhecimento técnico, tudo bem!). Aceitamos inscrições de mulheres de Porto Alegre e de todo o estado. Esperamos, com a ajuda de patrocinadores, poder oferecer auxílio às que desejam participar mas não tem meios de vir a Porto Alegre.
+
+Inscrições
+=====
+As inscrições estão abertas, e continuarão abertas até <data>. 
+
+Colabore
+============
+Encorajamos e todas e todos para espalhar esse anúncio entre seus amigos e familiares, e compartilhar o amor pela tecnologia e programação com todas as mulheres que você conhece. Com união, podemos trazer mais diversidade à TI e emponderar mulheres para que busquem trabalho nessa área sem precisarem ter nenhum receio.
+
+Se você deseja colaborar, por favor, escreva para nós! Ficaremos muito felizes de ter voluntárias e voluntários para o dia do evento ou para ajudar a completar as mais diversas tarefas necessárias para que esse evento aconteça, desde fazendo promoção junto à mídia local até treinando as meninas durante o workshop!
+
+Obrigada!
+Django Girls <cidade>

@@ -1,0 +1,40 @@
+Modelo de e-mail
+
+Assunto:
+
+Django Girls Porto Alegre - Patrocínio
+
+Mensagem:
+
+Olá!
+
+Meu nome é Renata Scheibler, e sou organizadora do Django Girls em Porto Alegre. Django Girls é uma organização não-governamental global que ajuda mulheres a se envolverem com tecnologia - e as ensina programação.
+
+Vamos fazer nosso próximo workshop em Porto Alegre em 12 e 13 de agosto e adoraríamos que você se envolvesse! Estamos buscando patrocinadores que nos ajudem a cobrir os custos de comida, bebida, transporte e outras despesas relacionadas.
+
+Segue anexo nossa proposta de patrocínio, para que você tenha uma ideia melhor do que é nosso evento. É claro, seria ótimo se pudessemos conversar mais sobre ele, então fique à vontade para entrar em contato.
+
+Tenha um excelente dia!
+
+Renata Scheibler
+https://djangogirls.org/portoalegre
+
+
+
+Subject:
+
+Django Girls Porto Alegre Sponsorship
+
+Body:
+
+Hello!
+
+My name is Renata Scheibler and I am the organizer of Django Girls in Porto Alegre, Brazil. Django Girls is a global, non-profit organization that helps women get involved with technology and teaches them about programming.
+
+We're doing our next workshop in Porto Alegre on August 12th and 13th and we would love to have you involved. We're looking for sponsors who can help us cover the costs of food, drinks, and other related expenses.
+
+Attached is our sponsorship proposal, so you can get the general idea of the event. Of course, we would love to talk to you more about it, so feel free to get in touch!
+
+Have a great day,
+Renata Scheibler
+https://djangogirls.org/portoalegre

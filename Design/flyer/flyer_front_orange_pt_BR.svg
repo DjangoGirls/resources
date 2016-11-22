@@ -13,7 +13,7 @@
    height="372.04724"
    id="svg3125"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="flyer_front_orange_pt_BR.svg"
    inkscape:export-filename="/home/wiliam/djangogirls/flyer_front_orange_pt_BR.png"
    inkscape:export-xdpi="90"
@@ -28,16 +28,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.344599"
-     inkscape:cx="140.99871"
+     inkscape:cx="272.97486"
      inkscape:cy="189.27912"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1333"
-     inkscape:window-height="744"
-     inkscape:window-x="33"
-     inkscape:window-y="24"
+     inkscape:window-width="1280"
+     inkscape:window-height="701"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3130">
@@ -66,39 +66,39 @@
        ry="1.77628" />
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4'"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
        x="262.10999"
-       y="820.3385"
+       y="814.3385"
        id="text2984"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="262.10999"
-         y="820.3385"
+         y="814.3385"
          id="tspan2988">Queremos inspirar as mulheres a se apaixonar</tspan><tspan
          sodipodi:role="line"
          x="262.10999"
-         y="855.3385"
+         y="844.3385"
          id="tspan3077">por programação.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4'"
-       x="145.10487"
-       y="1044.1421"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="116.09995"
+       y="1042.6547"
        id="text2990"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2992"
-         x="145.10487"
-         y="1044.1421">14 Novembro 2015 em Curitiba</tspan></text>
+         x="116.09995"
+         y="1042.6547">12 e 13 de Agosto, 2016 em Porto Alegre</tspan></text>
     <g
        id="g3249"
-       transform="translate(-12,0)">
+       transform="translate(-30,4)">
       <text
          sodipodi:linespacing="125%"
          id="text2998"
          y="944.3385"
          x="380.77631"
-         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="944.3385"
            x="380.77631"
@@ -109,7 +109,7 @@
          id="text3002"
          y="960.55646"
          x="415.88065"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="960.55646"
            x="415.88065"
@@ -129,7 +129,8 @@
            sodipodi:role="line">para a tecnologia.</tspan></text>
     </g>
     <g
-       id="g3165">
+       id="g3165"
+       transform="translate(17.105472,-2.5125677)">
       <g
          id="g3172">
         <g
@@ -140,7 +141,7 @@
              id="text2994"
              y="944.3385"
              x="45.848251"
-             style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4'"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28px;line-height:125%;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
              xml:space="preserve"><tspan
                y="944.3385"
                x="45.848251"
@@ -151,7 +152,7 @@
              id="text3002-2"
              y="965.7467"
              x="99.149971"
-             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
              xml:space="preserve"><tspan
                id="tspan3010-7"
                y="965.7467"
@@ -168,7 +169,7 @@
                id="tspan3185"
                y="1018.2467"
                x="99.149971"
-               sodipodi:role="line">https://djangogirls.org/curitiba</tspan></text>
+               sodipodi:role="line">https://djangogirls.org/portoalegre</tspan></text>
         </g>
       </g>
     </g>
@@ -244,22 +245,22 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
        x="261.93527"
-       y="874.74292"
+       y="868.74292"
        id="text3258"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3260"
          x="261.93527"
-         y="874.74292">Então, nós organizamos oficinas gratuitas de Python e Django, criamos</tspan><tspan
+         y="868.74292">Então, nós organizamos oficinas gratuitas de Python e Django, criamos</tspan><tspan
          sodipodi:role="line"
          x="261.93527"
-         y="892.24292"
+         y="886.24292"
          id="tspan3262">tutoriais online de código aberto e nos preocupamos para que sua</tspan><tspan
          sodipodi:role="line"
          x="261.93527"
-         y="909.74292"
+         y="903.74292"
          id="tspan3272">primeira experiência seja incrível.</tspan></text>
   </g>
 </svg>

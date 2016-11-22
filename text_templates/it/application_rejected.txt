@@ -1,0 +1,21 @@
+Subject:
+
+NON ACCETTATA: Django Girls <city>
+
+Body:
+
+Cara candidata,
+
+sfortunatamente non siamo riusciti a trovare un posto per te al workshop. Per poter essere in grado di seguire personalmente ogni partecipante possiamo solo accettare una parte delle richiedenti.
+
+Ricorda: questo non significa che non sei abbastanza brava. Qualche volta significa che hai troppa esperienza (e dovresti registrarti come coach non come principiante!), altre volte significa che c'è (o ci sarà presto) un evento Django Girls vicino a te. Abbiamo ricevuto inoltre più richieste di quante possiamo soddisfare. Se vuoi ricevere un feedback personale, per favore rispondi a questo messaggio, proveremo a fare il possibile. Un abbraccio!
+
+Il progetto Django Girls organizza costantemente eventi, non esitare ad iscriverti ad un altro evento. Controlla il nostro sito http://djangogirls.org/ e segui http://twitter.com/djangogirls o http://facebook.com/djangogirls per più informazioni.
+
+Tutti i nostri materiali sono liberi e open source, puoi provare il tutorial in autonomia: http://tutorial.djangogirls.org/it/. Se sei motivata ad imparare, puoi provare <meetups for women like Pyladies in the city>.
+
+C'è sempre una chance che qualcuna si cancelli all'ultimo minuto, potremo contattarti poco prima della data del workshop se si libera qualche posto.
+
+Buona fortuna!
+Django Girls <city>
+

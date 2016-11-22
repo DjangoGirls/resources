@@ -1,0 +1,21 @@
+Subject:
+
+ACCETTATA: Django Girls <city>
+
+Body:
+
+Congratulazioni! Siamo felici di invitarti a partecipare al workshop Django Girls a <city>. Speriamo che questo workshop sarà per te la prima di una lunga serie di applicazioni web sviluppate.
+
+Hai 3 giorni (fino al <day of week>, ore 10) per confermare che verrai a Django Girls <city> il <date>. Per favore verifica di poter venire a <city> perchè ci sono molte altre ragazze
+in lista per il tuo posto!
+
+Per CONFERMARE clicca il seguente link (o copia il link nel tuo browser): [rsvp-url-yes]
+
+Se non puoi venire e vuoi CANCELLARE la tua prenotazione, clicca questo link: [rsvp-url-no]
+
+Non preoccuparti di lasciare libero un posto, abbiamo una lunga lista di attesa!
+
+Se hai richiesto un aiuto economico, devi comunque confermare la tua partecipazione prima che si possano stanziare dei fondi. Dopo la tua conferma, ti sarà notificata entro 5 giorni l'entità dei fondi che possiamo erogare.
+
+Grazie! Non vediamo l'ora di vederti!
+Django Girls <city>

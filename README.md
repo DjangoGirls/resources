@@ -30,4 +30,4 @@ The fonts used in the logo and posters / bags designs can be found at:
 
 ## License
 
-In order to use this resources, you first need to receive a permission via e-mail from hello@djangogirls.org granted by Ola Sitarska or Ola Sendecka.
+If you're not a Django Girls organizer, you first need to receive a permission via e-mail from hello@djangogirls.org.
